@@ -1,0 +1,39 @@
+.app-name{
+    color: #1DA1F2;
+}
+.talk:hover {
+    color: #1DA1F2;
+
+}
+.image-container {
+    text-align: center;
+}
+.image-container img {
+    width: 100px;
+    border-radius: 50px;
+    text-align: center;
+}
+.image-container p {
+    text-align: center;
+}
+.image-container h2{
+    font-size: 14px;
+    color: #1DA1F2;
+}
+
+.social-links a{
+    font-size: 24px;
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+    transition: color 0.3s, transform 0.3s;
+  
+}
+.social-links {
+    text-align: center;
+}
+
+.social-links a:hover{
+    color: #1DA1F2;
+    transform: scale(1.2);
+}
